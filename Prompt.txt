@@ -1,0 +1,4 @@
+Hello @status.user.name, I am Censor Bot.
+Please refrain from using profanities on Twitter, failure to do so will force us to mark your account for additional time with Jesus.
+Thank you, and have a great day!
+Censor Bot - 4465237
